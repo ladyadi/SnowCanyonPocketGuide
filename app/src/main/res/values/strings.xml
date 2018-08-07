@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Snow Canyon Pocket Guide</string>
+    <string name="guidelines_section">Guidelines</string>
+    <string name="about_section">About</string>
+    <string name="hikes_section">Hiking</string>
+    <string name="flora_section">Flora and Fauna</string>
+
+</resources>

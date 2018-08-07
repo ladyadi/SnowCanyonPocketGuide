@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <TextView
+        android:background="@color/about_color"
+        android:id="@+id/about"
+        android:text="@string/about_section"
+        style="@style/MenuStyle"/>
+
+    <TextView
+        android:background="@color/guidelines_color"
+        android:id="@+id/guidelines"
+        android:text="@string/guidelines_section"
+        style="@style/MenuStyle"/>
+
+    <TextView
+        android:background="@color/hiking_color"
+        android:id="@+id/hiking"
+        android:text="@string/hikes_section"
+        style="@style/MenuStyle"/>
+
+    <TextView
+        android:background="@color/flora_color"
+        android:id="@+id/flora"
+        android:text="@string/flora_section"
+        style="@style/MenuStyle"/>
+
+    <ImageView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:background="@color/colorPrimary"
+        android:src="@drawable/petrified_dunes"/>
+
+</LinearLayout>

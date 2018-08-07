@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#e14815</color>
+    <color name="colorPrimaryDark">#0e0e0e</color>
+    <color name="colorAccent">#f4d331</color>
+    <color name="guidelines_color">#f4cd70</color>
+    <color name="about_color">#fde680</color>
+    <color name="hiking_color">#f7a156</color>
+    <color name="flora_color">#fa7351</color>
+
+</resources>
